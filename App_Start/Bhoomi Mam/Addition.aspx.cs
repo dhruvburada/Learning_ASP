@@ -5,15 +5,14 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Demo
+namespace Demo.App_Start.Bhoomi_Mam
 {
-    public partial class WebForm1 : System.Web.UI.Page
+    public partial class Addition : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
-
         protected void add(object sender, EventArgs e)
         {
             try
@@ -36,7 +35,7 @@ namespace Demo
             {
                 // Handle invalid input
                 output.Text = "Please enter valid numbers!";
-               
+
             }
         }
     }

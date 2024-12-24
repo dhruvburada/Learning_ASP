@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Demo
+namespace Demo.App_Start.Bhoomi_Mam
 {
 
 
-    public partial class WebForm1
+    public partial class Addition
     {
 
         /// <summary>
