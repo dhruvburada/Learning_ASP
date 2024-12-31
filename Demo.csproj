@@ -100,11 +100,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="App_Start\Bhoomi Mam\Addition.aspx" />
+    <Content Include="App_Start\Bhoomi Mam\1587727328468.png" />
+    <Content Include="App_Start\Bhoomi Mam\ADData.xml" />
     <Content Include="App_Start\Bhoomi Mam\Assignments\AS1\Que1.aspx" />
     <Content Include="App_Start\Bhoomi Mam\Assignments\AS1\Que2.aspx" />
     <Content Include="App_Start\Bhoomi Mam\Assignments\AS1\Que3.aspx" />
     <Content Include="App_Start\Bhoomi Mam\Assignments\AS1\Que4.aspx" />
+    <Content Include="App_Start\Bhoomi Mam\Dhruv Burada 2.PNG" />
+    <Content Include="App_Start\Bhoomi Mam\DHRUV BURADA.PNG" />
+    <Content Include="App_Start\Bhoomi Mam\DHRUV GAMER.PNG" />
+    <Content Include="App_Start\Bhoomi Mam\Lec Learning.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -188,13 +193,6 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Start\Bhoomi Mam\Addition.aspx.cs">
-      <DependentUpon>Addition.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="App_Start\Bhoomi Mam\Addition.aspx.designer.cs">
-      <DependentUpon>Addition.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\Bhoomi Mam\Assignments\AS1\Que1.aspx.cs">
       <DependentUpon>Que1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -222,6 +220,13 @@
     </Compile>
     <Compile Include="App_Start\Bhoomi Mam\Assignments\AS1\Que4.aspx.designer.cs">
       <DependentUpon>Que4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\Bhoomi Mam\Lec Learning.aspx.cs">
+      <DependentUpon>Lec Learning.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="App_Start\Bhoomi Mam\Lec Learning.aspx.designer.cs">
+      <DependentUpon>Lec Learning.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
